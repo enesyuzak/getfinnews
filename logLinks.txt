@@ -1,15 +1,17 @@
-Message: unknown error: net::ERR_NAME_NOT_RESOLVED
-  (Session info: chrome=85.0.4183.121)
 
-Message: unknown error: net::ERR_NAME_NOT_RESOLVED
-  (Session info: chrome=85.0.4183.121)
+Linklerin yüklenme süresi: 0 saat 2 dakika 9saniye sürmüştür
+2020-10-19 12:24:52.664498 tarihinde başladı
+ 2020-10-19 12:27:02.363113 tarihinde bitti.[]\İçeriklerin okunma süresi: 0 saat 0 dakika 0.092219saniye sürmüştür
+2020-10-19 12:28:10.162408 tarihinde başladı
+ 2020-10-19 12:28:10.254627 tarihinde bitti.2020-10-19 12:28:10.200130-->Error: Message: invalid argument
+  (Session info: chrome=86.0.4240.75)
 
-Message: unknown error: net::ERR_NAME_NOT_RESOLVED
-  (Session info: chrome=85.0.4183.121)
-
-Message: unknown error: net::ERR_NAME_NOT_RESOLVED
-  (Session info: chrome=85.0.4183.121)
-
-Message: unknown error: net::ERR_NAME_NOT_RESOLVED
-  (Session info: chrome=85.0.4183.121)
-
+\İçeriklerin okunma süresi: 0 saat 0 dakika 20.271754saniye sürmüştür
+2020-10-19 12:30:18.140246 tarihinde başladı
+ 2020-10-19 12:30:38.412000 tarihinde bitti.2020-10-19 12:30:32.760190-->Error: 'NoneType' object has no attribute 'find_all'
+\İçeriklerin okunma süresi: 0 saat 0 dakika 15.154189saniye sürmüştür
+2020-10-19 13:09:21.923372 tarihinde başladı
+2020-10-19 13:09:37.077561 tarihinde bitti.2020-10-19 13:09:35.688698-->Error: 'NoneType' object has no attribute 'find_all'
+\Haberlerin okunma süresi: 0 saat 0 dakika 31.682976saniye sürmüştür
+2020-10-19 13:31:47.936803 tarihinde başladı
+2020-10-19 13:32:19.619779 tarihinde bitti.2020-10-19 13:32:15.115001-->Error: 'NoneType' object has no attribute 'find_all'

@@ -11,7 +11,6 @@ import time
 
 
 class selenium:
-    
     def act(driver):
         actions = ActionChains(driver) 
         nextPage=driver.find_element_by_class_name("pagination__next")
@@ -27,7 +26,7 @@ class logs:
     
     def WriteToFile(filePath,text):
         file1=io.open(filePath,"a",encoding="utf-8")
-        file1.writelines(text)
+        file1.write(text)
         file1.close()
     
     def ReadFromFile(fileName):

@@ -17,3 +17,4 @@ print(type(a))
 b=a.split(",")
 for link in b:
     l.WriteToFile(r'C:\Users\enesy\OneDrive\Okul\Tez\Codes\tez\getfinnews\cleanedData.txt',str(link))
+

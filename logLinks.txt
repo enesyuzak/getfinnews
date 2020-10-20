@@ -1,17 +1,21 @@
-
-Linklerin yüklenme süresi: 0 saat 2 dakika 9saniye sürmüştür
-2020-10-19 12:24:52.664498 tarihinde başladı
- 2020-10-19 12:27:02.363113 tarihinde bitti.[]\İçeriklerin okunma süresi: 0 saat 0 dakika 0.092219saniye sürmüştür
-2020-10-19 12:28:10.162408 tarihinde başladı
- 2020-10-19 12:28:10.254627 tarihinde bitti.2020-10-19 12:28:10.200130-->Error: Message: invalid argument
-  (Session info: chrome=86.0.4240.75)
-
-\İçeriklerin okunma süresi: 0 saat 0 dakika 20.271754saniye sürmüştür
-2020-10-19 12:30:18.140246 tarihinde başladı
- 2020-10-19 12:30:38.412000 tarihinde bitti.2020-10-19 12:30:32.760190-->Error: 'NoneType' object has no attribute 'find_all'
-\İçeriklerin okunma süresi: 0 saat 0 dakika 15.154189saniye sürmüştür
-2020-10-19 13:09:21.923372 tarihinde başladı
-2020-10-19 13:09:37.077561 tarihinde bitti.2020-10-19 13:09:35.688698-->Error: 'NoneType' object has no attribute 'find_all'
-\Haberlerin okunma süresi: 0 saat 0 dakika 31.682976saniye sürmüştür
-2020-10-19 13:31:47.936803 tarihinde başladı
-2020-10-19 13:32:19.619779 tarihinde bitti.2020-10-19 13:32:15.115001-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 59 dakika 25saniye sürmüştür
+2020-10-19 13:55:09.728587 tarihinde başladı
+2020-10-19 14:54:35.359428 tarihinde bitti.2020-10-19 14:51:37.158423-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 1 saat 65 dakika 45saniye sürmüştür
+2020-10-19 14:57:44.909108 tarihinde başladı
+2020-10-19 16:03:30.190105 tarihinde bitti.2020-10-19 15:54:25.204558-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 2 saat 138 dakika 39saniye sürmüştür
+2020-10-19 16:09:27.430385 tarihinde başladı
+2020-10-19 18:28:06.480638 tarihinde bitti.2020-10-19 17:39:05.362023-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 2 saat 125 dakika 44saniye sürmüştür
+2020-10-19 21:04:30.824386 tarihinde başladı
+2020-10-19 23:10:15.312736 tarihinde bitti.2020-10-19 22:58:21.204378-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 1 saat 114 dakika 5saniye sürmüştür
+2020-10-20 09:56:12.311849 tarihinde başladı
+2020-10-20 11:50:17.826895 tarihinde bitti.2020-10-20 11:28:54.631469-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 1 saat 110 dakika 42saniye sürmüştür
+2020-10-20 12:38:05.004551 tarihinde başladı
+2020-10-20 14:28:47.783978 tarihinde bitti.2020-10-20 14:16:49.520918-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 1 saat 93 dakika 0saniye sürmüştür
+2020-10-20 14:31:40.570891 tarihinde başladı
+2020-10-20 16:04:41.389431 tarihinde bitti.2020-10-20 15:48:02.255185-->Error: 'NoneType' object has no attribute 'find_all'

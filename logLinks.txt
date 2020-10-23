@@ -19,3 +19,45 @@ Haberlerin okunma süresi: 1 saat 110 dakika 42saniye sürmüştür
 Haberlerin okunma süresi: 1 saat 93 dakika 0saniye sürmüştür
 2020-10-20 14:31:40.570891 tarihinde başladı
 2020-10-20 16:04:41.389431 tarihinde bitti.2020-10-20 15:48:02.255185-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 4 dakika 45saniye sürmüştür
+2020-10-22 17:14:34.974396 tarihinde başladı
+2020-10-22 17:19:20.523321 tarihinde bitti.2020-10-22 17:17:37.960620-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 33 dakika 40saniye sürmüştür
+2020-10-22 17:29:24.193018 tarihinde başladı
+2020-10-22 18:03:04.208462 tarihinde bitti.2020-10-22 18:02:04.119963-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 8 dakika 42saniye sürmüştür
+2020-10-22 18:21:51.958475 tarihinde başladı
+2020-10-22 18:30:34.249510 tarihinde bitti.2020-10-22 18:27:47.680486-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 15 dakika 22saniye sürmüştür
+2020-10-22 23:22:17.247530 tarihinde başladı
+2020-10-22 23:37:39.151791 tarihinde bitti.2020-10-22 23:22:24.484461-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 0 dakika 45saniye sürmüştür
+2020-10-22 23:39:24.395799 tarihinde başladı
+2020-10-22 23:40:09.374225 tarihinde bitti.2020-10-22 23:40:00.382130-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 0 dakika 42saniye sürmüştür
+2020-10-22 23:40:57.910225 tarihinde başladı
+2020-10-22 23:41:39.877480 tarihinde bitti.2020-10-22 23:41:22.547040-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 0 dakika 41saniye sürmüştür
+2020-10-22 23:42:02.391714 tarihinde başladı
+2020-10-22 23:42:43.526542 tarihinde bitti.2020-10-22 23:42:40.694847-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 0 dakika 40saniye sürmüştür
+2020-10-22 23:53:09.391958 tarihinde başladı
+2020-10-22 23:53:49.764895 tarihinde bitti.2020-10-22 23:53:49.074775-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 0 dakika 43saniye sürmüştür
+2020-10-22 23:54:41.629662 tarihinde başladı
+2020-10-22 23:55:24.931538 tarihinde bitti.2020-10-22 23:55:11.898288-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 0 dakika 43saniye sürmüştür
+2020-10-22 23:58:11.494131 tarihinde başladı
+2020-10-22 23:58:54.097100 tarihinde bitti.2020-10-22 23:58:46.144498-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 0 dakika 43saniye sürmüştür
+2020-10-22 23:59:37.909986 tarihinde başladı
+2020-10-23 00:00:21.025429 tarihinde bitti.2020-10-22 23:59:59.606756-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 0 dakika 54saniye sürmüştür
+2020-10-23 00:05:19.339117 tarihinde başladı
+2020-10-23 00:06:13.121336 tarihinde bitti.2020-10-23 00:06:03.297681-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 0 dakika 48saniye sürmüştür
+2020-10-23 00:15:06.209918 tarihinde başladı
+2020-10-23 00:15:54.612636 tarihinde bitti.2020-10-23 00:15:52.253378-->Error: 'NoneType' object has no attribute 'find_all'
+Haberlerin okunma süresi: 0 saat 1 dakika 53saniye sürmüştür
+2020-10-23 00:37:34.355151 tarihinde başladı
+2020-10-23 00:39:27.104903 tarihinde bitti.2020-10-23 00:38:01.885385-->Error: 'NoneType' object has no attribute 'find_all'

@@ -13,14 +13,14 @@ import io
 import time
 
 class Mail:
-    def send_mail(subject,message):
+    def send_mail(subject,message,plain="plain"):
         
         msg=MIMEMultipart()
         msg['from']="enesyuzak@yandex.com"
         msg['to']="enesyuzak@gmail.com"
         msg['subject']=subject
         
-        msg_setting=MIMEText(message,"plain")
+        msg_setting=MIMEText(message,plain)
         msg.attach(msg_setting)
         
         try:

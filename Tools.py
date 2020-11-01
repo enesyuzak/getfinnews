@@ -49,7 +49,7 @@ class File :
         file1.close()
     
     def ReadFromFile(fileName):
-        with open(fileName,"r") as reader:
+        with open(fileName,"r",encoding='utf-8') as reader:
             x=reader.readlines()
         reader.close()
         return x
